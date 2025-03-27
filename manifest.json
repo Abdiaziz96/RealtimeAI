@@ -1,0 +1,8 @@
+{
+    "name": "Real-Time ChatGPT Assistant",
+    "short_name": "ChatGPT Assistant",
+    "start_url": "./",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#4CAF50"
+}
