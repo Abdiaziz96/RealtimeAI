@@ -20,7 +20,7 @@ startButton.addEventListener('click', () => {
 });
 
 function sendToDeepSeek(message) {
-    const apiKey = "sk-37a9e66385ad40be88e98b3aa5d0739c"; // Your DeepSeek API key
+    const apiKey = ""; // Your DeepSeek API key
     const url = "https://api.deepseek.com/v1/chat/completions"; // DeepSeek API URL
 
     // Add user message to conversation memory
